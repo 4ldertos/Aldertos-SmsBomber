@@ -1,4 +1,4 @@
-# Mental-SmsBomber
+# Aldertos-SmsBomber
 
 kardeşim başlat.bat dosyasını çalıştırıyon numarayı +90 olmadan giriyon bitti.
 
